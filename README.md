@@ -28,3 +28,6 @@ git远程仓库技术博客地址，https://www.cnblogs.com/wangmingshun/p/54247
 	点“Add ssh Key”，你就应该看到已经添加的Key.
 	为什么GitHub需要SSH Key呢？因为GitHub需要识别出你推送的提交确实是你推送的，而不是别人冒充的，而Git支持SSH协议，所以，GitHub只要知道了你的公钥，就可以确认只有你自己才能推送。
 	当然，多人进行合作开发，只需要将每个人的key都重复上面的步骤将添加到你的github就可以了，这样他们也可以往你的github上推送内容。
+
+
+技术博客  https://www.cnblogs.com/zxtceq/p/6963964.html
