@@ -1,0 +1,8 @@
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\bin\Release\BarcodePrinter2.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\bin\Release\BarcodePrinter2.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\bin\Release\BarcodePrinter2.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\bin\Release\Renci.SshNet.dll
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\obj\x86\Release\BarcodePrinter2.csprojResolveAssemblyReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\obj\x86\Release\BarcodePrinter2.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\obj\x86\Release\BarcodePrinter2.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter2\obj\x86\Release\BarcodePrinter2.pdb

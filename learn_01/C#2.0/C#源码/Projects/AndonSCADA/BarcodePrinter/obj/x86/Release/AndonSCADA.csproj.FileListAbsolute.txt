@@ -1,0 +1,19 @@
+E:\MES开发文档\MES条码打印工具（窗口程序）\AndonSCADA.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.csproj.ResolveComReference.cache
+E:\MES开发文档\MES条码打印工具（窗口程序）\AndonSCADA.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\AndonSCADA.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\AndonSCADA.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\AndonSCADA.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.csprojResolveAssemblyReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.Form1.resources
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.SCADA_S72OO.resources
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.TrustInfo.xml
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.application
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.exe
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.csproj.ResolveComReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\AndonSCADA.pdb

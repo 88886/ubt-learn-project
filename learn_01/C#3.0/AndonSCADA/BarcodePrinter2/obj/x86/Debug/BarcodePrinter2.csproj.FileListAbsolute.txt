@@ -1,0 +1,2 @@
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter2\bin\Debug\BarcodePrinter2.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter2\obj\x86\Debug\BarcodePrinter2.csproj.ResolveComReference.cache

@@ -1,0 +1,15 @@
+ 如果一个Assembly希望封装成为ActiveX/COM组件，那么它必须拥有强名（Strong Name），也就是说在编译的时候需要指定SNK（Strong Name Key）。但是当一个Assembly如果以拥有强名的方式编译的话，它又要求所有自身所引用的其他Assembly都必须拥有强名，否则不能够成功编译。这时可以使用按照以下方式来创建或重建一个名称程序集。
+首先无论我们有需要一个密钥对（以VS2008为例）：
+1、运行在“开始菜单”-“程序”-“Microsoft Visual Studio 2008”-“Visual Studio Tools”-“Visual Studio 2008命令提示”（使用这一命令行工作才能能任意路径下执行VS命令行工具）；
+2、创建一个强名称程序集密钥文件文件
+执行命令C:\sn -k keypair.snk
+3、为类库绑定密钥文件
+      （1）a. 如果你有要引用的类库的源代码，可以在类库项目中的AssemblyInfo.cs源文件中加入如下面的属性：
+                  [assembly:AssemblyKeyFile("C:\keypair.snk")]
+      （如果有源代码的情况下，也可以直接使用项目配置来使类库项目直接生成并绑定密钥对。配置如：右击“类库项目”->“属性”->“签名”选项卡->选择“为程序集签名”复选框->“选择强名称密钥文件(K)：”下拉框->“新建”或“浏览”选择一个已存在的密钥文件。）
+b. 生成项目即可得到拥有强名称的类型库
+      （2）如果你只有第三方的类库(xxxxxx.dll)文件而没有源码项目的话，需要继续做如下操作。
+               a. 使用类库文件获取微软中间语言（MSIL）源码文件。
+               C:\>ildasm xxxxxx.dll /out:xxxxxx.il
+               b. 使用MSIL源码文件(xxxxxx.il)和新生成的(keypair.snk)密钥文件创建新的程序集类库文件
+                C:\>ilasm xxxxxx.il /dll /key=keypair.snk

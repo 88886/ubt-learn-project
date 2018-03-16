@@ -1,0 +1,5 @@
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\bin\Debug\upsAPIs.dll
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\bin\Debug\upsAPIs.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Debug\upsAPIs.dll
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Debug\upsAPIs.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Debug\upsAPIs.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+qt连接mysql要重新编译mysql驱动程序，qtcreator只有32位时，可以安装32位mysql进行编译，编译后产生的.dll文件，
+可以替换掉64位的mysql，从而可以使qtcreator32位的连接64位MYSQL（注网上教程）
+

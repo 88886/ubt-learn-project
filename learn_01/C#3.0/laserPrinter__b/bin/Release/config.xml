@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<config>
+	<checkUrl>http://10.10.9.163:8000/api/production/get_weight_work/1006</checkUrl>
+	<bindUrl>http://10.10.9.163:8000/api/production/finnish_weight_work/1006</bindUrl>
+
+	<tip>127.0.0.1</tip>
+	<tpo>7890</tpo>
+</config>

@@ -1,0 +1,103 @@
+ubt@ubt652 MINGW64 /d/Qt/myproject/project (master)
+$ git add .
+
+ubt@ubt652 MINGW64 /d/Qt/myproject/project (master)
+$ git commit -m "first commit"
+[master d0d973f] first commit
+ Committer: ubt <ubt>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to ed
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit wi
+
+    git commit --amend --reset-author
+
+ 62 files changed, 13720 insertions(+)
+ create mode 100644 UBT/UBT.pro
+ create mode 100644 UBT/UBT.pro.user
+ create mode 100644 UBT/addagv.cpp
+ create mode 100644 UBT/addagv.h
+ create mode 100644 UBT/addagv.ui
+ create mode 100644 UBT/agv.cpp
+ create mode 100644 UBT/agv.h
+ create mode 100644 UBT/agvframe.cpp
+ create mode 100644 UBT/agvframe.h
+ create mode 100644 UBT/agvframe.ui
+ create mode 100644 UBT/dialog.ui
+ create mode 100644 UBT/endstationthread.cpp
+ create mode 100644 UBT/endstationthread.h
+ create mode 100644 UBT/frame.cpp
+ create mode 100644 UBT/frame.h
+ create mode 100644 UBT/frame.ui
+ create mode 100644 UBT/handler.cpp
+ create mode 100644 UBT/handler.h
+ create mode 100644 UBT/images.qrc
+ create mode 100644 UBT/images/agv-1.jpg
+ create mode 100644 UBT/images/cruz.jpg
+ create mode 100644 UBT/images/exit.jpg
+ create mode 100644 UBT/images/icon.png
+ create mode 100644 UBT/images/title.png
+ create mode 100644 UBT/logframe.cpp
+ create mode 100644 UBT/logframe.h
+ create mode 100644 UBT/logframe.ui
+ create mode 100644 UBT/logindialog.cpp
+ create mode 100644 UBT/logindialog.h
+ create mode 100644 UBT/logindialog.ui
+ create mode 100644 UBT/main.cpp
+ create mode 100644 UBT/mainwindow.cpp
+ create mode 100644 UBT/mainwindow.h
+ create mode 100644 UBT/mainwindow.ui
+ create mode 100644 UBT/mateialflowframe.cpp
+ create mode 100644 UBT/mateialflowframe.h
+ create mode 100644 UBT/mateialflowframe.ui
+ create mode 100644 UBT/materialflowframe.cpp
+ create mode 100644 UBT/materialflowframe.h
+ create mode 100644 UBT/materialflowframe.ui
+ create mode 100644 UBT/mflowframe.cpp
+ create mode 100644 UBT/mflowframe.h
+ create mode 100644 UBT/mflowframe.ui
+ create mode 100644 UBT/myresources.qrc
+ create mode 100644 UBT/sfs.qrc
+ create mode 100644 UBT/sqldrivers/qsqlite.dll
+ create mode 100644 UBT/sqldrivers/qsqlited.dll
+ create mode 100644 UBT/sqldrivers/qsqlmysql.dll
+ create mode 100644 UBT/sqldrivers/qsqlmysqld.dll
+ create mode 100644 UBT/sqldrivers/qsqlodbc.dll
+ create mode 100644 UBT/sqldrivers/qsqlodbcd.dll
+ create mode 100644 UBT/sqldrivers/qsqlpsql.dll
+ create mode 100644 UBT/sqldrivers/qsqlpsqld.dll
+ create mode 100644 UBT/station.cpp
+ create mode 100644 UBT/station.h
+ create mode 100644 UBT/style.qss
+ create mode 100644 UBT/tablemodel.cpp
+ create mode 100644 UBT/tablemodel.h
+ create mode 100644 UBT/workstationthread.cpp
+ create mode 100644 UBT/workstationthread.h
+ create mode 100644 UBT/workthread.cpp
+ create mode 100644 UBT/workthread.h
+
+ubt@ubt652 MINGW64 /d/Qt/myproject/project (master)
+$ git pull
+root@mes.ubtrobot.com's password:
+Already up-to-date.
+
+ubt@ubt652 MINGW64 /d/Qt/myproject/project (master)
+$ git push origin master
+root@mes.ubtrobot.com's password:
+Counting objects: 66, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (64/64), done.
+Writing objects: 100% (66/66), 2.59 MiB | 1.92 MiB/s, done.
+Total 66 (delta 12), reused 0 (delta 0)
+To ssh://root@mes.ubtrobot.com:8888/home/git_agv/project
+   e2b7547..d0d973f  master -> master
+
+ubt@ubt652 MINGW64 /d/Qt/myproject/project (master)
+$
+
+

@@ -1,0 +1,14 @@
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form1.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\Renci.SshNet.dll
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.application

@@ -1,0 +1,10 @@
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\bin\Release\upsAPIs.dll
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\bin\Release\upsAPIs.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.dll
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.csprojResolveAssemblyReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\upsAPIs\upsAPIs\bin\Release\upsAPIs.dll
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\upsAPIs\upsAPIs\bin\Release\upsAPIs.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.dll
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\upsAPIs\upsAPIs\obj\Release\upsAPIs.csprojResolveAssemblyReference.cache

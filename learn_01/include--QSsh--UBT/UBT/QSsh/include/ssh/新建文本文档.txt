@@ -1,0 +1,14 @@
+D:\Qt\myproject\UBT\QSsh\include\ssh\sshconnection.h:111: candidate: QSsh::SshConnection::SshConnection(const QSsh::SshConnectionParameters&, QObject*)
+     explicit SshConnection(const SshConnectionParameters &serverInfo, QObject *parent = 0);
+  D:\Qt\myproject\UBT\QSsh\include\ssh\sshconnection.h:111: note:   no known conversion for argument 1 from 'SshConnectionParameters* {aka QSsh::SshConnectionParameters*}' to 'const QSsh::SshConnectionParameters&'   
+
+ //QLibrary mylib("upsAPIs.dll");
+    QLibrary mylib("Renci.SshNet.dll");
+    bool result = mylib.load();
+    //bool result2 = mylib2.load();
+    int x=0;
+    int y=0;
+    if(result ){
+        qDebug()<<2;
+
+    }         ^

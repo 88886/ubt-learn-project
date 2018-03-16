@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LaserPrinter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="processpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jimu_001</Value>
+    </Setting>
+    <Setting Name="templatename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\BarcodeTemplates\1P 中文带3C标志.无线电认证 （39X16.5).Lab</Value>
+    </Setting>
+    <Setting Name="serverIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2066</Value>
+    </Setting>
+    <Setting Name="storageNO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

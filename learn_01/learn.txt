@@ -1,0 +1,6 @@
+ GitHub - phodal/toolbox: Phodal's Toolbox
+
+开源项目地址
+https://gitee.com/fanhx9/Strategy/repository/archive/master.zip
+
+qt是5.4.0

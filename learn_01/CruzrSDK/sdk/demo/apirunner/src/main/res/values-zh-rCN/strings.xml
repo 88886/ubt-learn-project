@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApiRunner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="call">带路|再见|你的饭|我需要帮助</string>
+    <string name="context">生日快乐|捡漏|蔬菜|喝茶</string>
+    <string name="tips">长按命令按钮可查看详情.\n本界面的测试动作均为极限动作，非专业人士禁止操作，操作之前请保证机器人有足够的活动空间。\n</string>
+    <string name="movetoward">前进</string>
+    <string name="moveback">后退</string>
+    <string name="moveleft">左移</string>
+    <string name="moveright">右移</string>
+    <string name="rotationleft">左转</string>
+    <string name="rotationright">右转</string>
+    <string name="rotationhint">(正值左转，负值右转)</string>
+    <string name="excute">执行</string>
+    <string name="lrspeed">左右速度</string>
+    <string name="tbspeed">前后速度</string>
+    <string name="deltaspeed">转身速度</string>
+    <string name="stop">停止</string>
+    <string name="setself">自定义:</string>
+    <string name="setvalue">(默认值：0.2)</string>
+    <string name="setzero">零点设置</string>
+    <string name="finger">手指设置</string>
+    <string name="setreleaseenerg">释能</string>
+    <string name="leftfingerup">左手指角度+</string>
+    <string name="leftfingerdown">左手指角度-</string>
+    <string name="rightfingerup">右手指角度+</string>
+    <string name="rightfingerdown">右手指角度-</string>
+</resources>

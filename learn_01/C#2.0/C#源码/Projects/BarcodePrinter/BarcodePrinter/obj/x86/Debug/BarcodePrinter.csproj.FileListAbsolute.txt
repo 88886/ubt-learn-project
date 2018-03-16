@@ -1,0 +1,35 @@
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form1.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\Renci.SshNet.dll
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.config
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.ResolveComReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\BarcodePrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\MySql.Data.dll
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\Renci.SshNet.dll
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\upsAPIs.dll
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\bin\Debug\upsAPIs.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form1.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form4.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form5.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Form6.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.Properties.Resources.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.csproj.GenerateResource.Cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.TrustInfo.xml
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Debug\BarcodePrinter.application

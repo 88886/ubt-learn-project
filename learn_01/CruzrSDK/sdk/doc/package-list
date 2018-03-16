@@ -1,0 +1,9 @@
+com.ubtechinc.cruzr.sdk.face
+com.ubtechinc.cruzr.sdk.recognition
+com.ubtechinc.cruzr.sdk.recognition.arcsoft
+com.ubtechinc.cruzr.sdk.ros
+com.ubtechinc.cruzr.sdk.speech
+com.ubtechinc.cruzr.sdk.status
+com.ubtechinc.cruzr.sdk.sys
+com.ubtechinc.cruzr.serverlibutil.aidl
+com.ubtechinc.cruzr.serverlibutil.interfaces

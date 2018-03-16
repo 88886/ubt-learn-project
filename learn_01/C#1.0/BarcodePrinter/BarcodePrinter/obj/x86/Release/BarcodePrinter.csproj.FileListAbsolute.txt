@@ -1,0 +1,52 @@
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpIPdemo\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpIPdemo\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpIPdemo\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpIPdemo\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpIPdemo\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpServer\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpServer\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpServer\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpServer\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpserver2\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpserver2\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpserver2\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpserver2\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpserver2\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpClient\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpClient\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpClient\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpClient\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\tcpClient\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\CSBarcodePrinter\BarcodePrinter.exe.config
+E:\MES开发文档\MES条码打印工具（窗口程序）\CSBarcodePrinter\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\CSBarcodePrinter\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\CSBarcodePrinter\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\CSBarcodePrinter\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csprojResolveAssemblyReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\Interop.BarTender.dll
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Form1.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.FormBT.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Form4.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Form5.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Form6.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.TrustInfo.xml
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.pdb
+G:\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.ResolveComReference.cache
+G:\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe
+G:\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.pdb

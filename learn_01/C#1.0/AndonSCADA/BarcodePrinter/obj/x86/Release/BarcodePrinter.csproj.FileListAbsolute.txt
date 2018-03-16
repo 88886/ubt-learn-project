@@ -1,0 +1,23 @@
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\bin\Release\BarcodePrinter.pdb
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.ResolveComReference.cache
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe.manifest
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.application
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.exe
+E:\MES开发文档\MES条码打印工具（窗口程序）\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Form1.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.TrustInfo.xml
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\BarcodePrinter\BarcodePrinter\obj\x86\Release\BarcodePrinter.csprojResolveAssemblyReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\BarcodePrinter.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\BarcodePrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\AndonSCADA\BarcodePrinter\obj\x86\Release\BarcodePrinter.pdb

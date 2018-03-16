@@ -1,0 +1,79 @@
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\LaserPrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\LaserPrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\LaserPrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\LaserPrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\LaserPrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\bin\Release\LaserPrinter.exe.config
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\bin\Release\LaserPrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\bin\Release\LaserPrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\bin\Release\LaserPrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\bin\Release\LaserPrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.ResolveComReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form4.resources
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form5.resources
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form6.resources
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Properties.Resources.resources
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.GenerateResource.Cache
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.TrustInfo.xml
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe.manifest
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.application
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.pdb
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.AutoStorageConnector.resources
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csprojResolveAssemblyReference.cache
+D:\users\ubt\documents\visual studio 2010\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.ElectronicDataColector.resources
+F:\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe.config
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.ResolveComReference.cache
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.pdb
+F:\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe.manifest
+F:\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.application
+F:\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe
+F:\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.pdb
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csprojResolveAssemblyReference.cache
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.AutoStorageConnector.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.ElectronicDataColector.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form4.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form5.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form6.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Properties.Resources.resources
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.GenerateResource.Cache
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.TrustInfo.xml
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe.manifest
+F:\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.ResolveComReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.AutoStorageConnector.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Form5.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.Properties.Resources.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.GenerateResource.Cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe.config
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\bin\Release\LaserPrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.TrustInfo.xml
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter\BarcodePrinter\obj\x86\Release\LaserPrinter.csprojResolveAssemblyReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter - 副本\bin\Release\LaserPrinter.exe.config
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter - 副本\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.ResolveComReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter - 副本\BarcodePrinter\obj\x86\Release\LaserPrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter - 副本\BarcodePrinter\obj\x86\Release\LaserPrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\bin\Release\LaserPrinter.exe.config
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.ResolveComReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\bin\Release\LaserPrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\bin\Release\LaserPrinter.application
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\bin\Release\LaserPrinter.exe
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\bin\Release\LaserPrinter.pdb
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.csprojResolveAssemblyReference.cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.AutoStorageConnector.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.Form5.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.Properties.Resources.resources
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.csproj.GenerateResource.Cache
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.TrustInfo.xml
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.exe.manifest
+C:\Users\ubt\Desktop\C#源码\C#源码\Projects\laserPrinter 多打SN\BarcodePrinter\obj\x86\Release\LaserPrinter.application
